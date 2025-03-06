@@ -1,2 +1,16 @@
+# github
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.com
+
+# deepseek
+DOMAIN-KEYWORD,deepseek
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,fengkongcloud.cn
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,portal101.cn
+DOMAIN-SUFFIX,portal101.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercomcdn.com
